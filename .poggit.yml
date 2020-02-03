@@ -1,0 +1,30 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/amostodman/EconomyS
+build-by-default: true
+branches:
+- 3.x
+projects:
+  EconomyAPI:
+    path: EconomyAPI/
+  EconomyAirport:
+    path: EconomyAirport/
+  EconomyAuction:
+    path: EconomyAuction/
+  EconomyCasino:
+    path: EconomyCasino/
+  EconomyJob:
+    path: EconomyJob/
+  EconomyLand:
+    path: EconomyLand/
+  EconomyPShop:
+    path: EconomyPShop/
+  EconomyProperty:
+    path: EconomyProperty/
+  EconomySell:
+    path: EconomySell/
+  EconomyShop:
+    path: EconomyShop/
+  EconomyTax:
+    path: EconomyTax/
+  EconomyUsury:
+    path: EconomyUsury/
+...
