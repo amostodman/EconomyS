@@ -43,3 +43,4 @@ permissions:
           economyapi.command.economy:
             description: Command for player to control own configuration
             default: true
+            
