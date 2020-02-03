@@ -111,3 +111,4 @@ commands:
   description: Sell land
   usage: /landsell <here|land num>
   permission: economyland.command.landsell;economyland.command.landsell.here;economyland.command.landsell.number
+

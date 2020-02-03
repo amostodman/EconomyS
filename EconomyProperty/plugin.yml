@@ -35,3 +35,4 @@ permissions:
      economyproperty.command.property.make:
       default: op
       description: Allows player to use /property make command
+
